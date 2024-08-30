@@ -1,40 +1,57 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae" 
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
+# [PDF Format](../files/Ick_CV.pdf)
 
 {% include base_path %}
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Data Science @ Music and Audio Research Lab, New York University, 2025 (expected)
+  - Advised by [Prof. Brian McFee](https://brianmcfee.net/)
+  - Urban Scholars Research Fellow
+* M.S. in Data Science @ Center for Data Science, New York University, 2018
+  - DeepMind Fellowship
+  - Transferred to Ph.D Program
+* B.S. in Physics @ College of Arts and Science, New York University, 2017
+  - Minors in CS/Math
+  - Graduated with Honors
+  - [Athletic Honor Roll](https://gonyuathletics.com/sports/mens-fencing/roster/chris-ick/7426)
+  - Dean's List
+  - [Sigma Pi Sigma](https://www.sigmapisigma.org/) Member
+  - [Dean's Undergraduate Research Grant Recipient](https://cas.nyu.edu/undergraduate-research/deans-undergraduate-research-fund.html) (5x)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer-Winter 2024: Research Intern (part-time)
+  * Mitsubishi Electric Research Laboratories, Cambridge, MA (Remote)
+  * Advisors: Gordon Wichern, Yoshiki Masuyama, Jonathan Le Roux
+  * Ongoing
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Summer 2022: Advanced Technology Intern
+  * Sonos, Boston, MA (Remote)
+  * Advisors: Wenyu Jin, Adib Mehrabi
+  * [Results published in ICASSP 2023](../publication/2023_blindparameterest)
+
+* Summer 2021: Audio AI Intern
+  * Robert Bosch LLC, Pittsburgh, PA (Remote)
+  * Advisors: Luca Bondi, Samarjit Das
+  * [Results published in ICASSP 2022](../publication/2022_acousticimaging)
+
+* Summer 2019: Applied Scientist Intern
+  * Amazon Music, San Francisco, CA
+  * Advisors: Emile Richard, Katherine Ellis, Gert Lanckriet
+
+* May 2017 - September 2018: Junior Research Associate
+  * NYU Physics Dept, New York, NY
+  * Advisors: David Hogg, Kyle Cranmer
+  * [Results published in Astrophysical Journal 2022](../publication/2022_qpo)
+
 
 Publications
 ======
@@ -42,18 +59,35 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Fall 2023 - Spring 2024: Teaching Assistant
+  * NYU Physics Dept, New York, NY
+  * How Things Work (CORE-UA 214)
+* Summer 2023: REU & ARISE Mentor
+  * Music and Audio Research Laboratory, Brooklyn, NY
+  * Advised one undergraduate and one high-school mentee
+  * Projects were on spatial audio, 3D data transforms, visualization
+* Fall 2019: Course Assistant
+  * NYU Center for Data Science, New York, NY
+  * Data Science for Everyone [(DS-UA 111)](https://wp.nyu.edu/ds4e/)
+* Spring 2019: Teaching Assistant
+  * NYU Physics Dept, New York, NY
+  * Intro to Experimental Physics II (PHYS-UA 72)
+* Fall 2018: Teaching Assistant:
+  * NYU Physics Dept, New York, NY
+  * Quarks to Cosmos (CORE-UA 209)
+* Fall 2016 - Spring 2018: Teaching Assistant
+  * NYU Physics Dept, New York, NY
+  * Advanced Experimental Physics [(PHYS-UA 112/PHYS-GA 2075)](https://physics.nyu.edu/~physlab/Experimental_Phys/Experimental_phys.html)
+* Fall 2014 - Spring 2017: Undergraduate Adjunct Instructor
+  * NYU Physics Dept, New York, NY
+  * Walk-in instruction for undergraduate physics
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Referee/Reviewer:
+  * ISMIR 2023
+  * ICASSP 2022, 2023, 2024
+* Volunteer/Events Committee: [Jane Bailey Memorial Garden](https://www.nyrp.org/en/gardens-and-parks/jane-bailey-memorial-garden/) (2022-2024)
+* Member-Owner: [Greene Hill Food Co-op](https://www.greenehillfood.coop/)
