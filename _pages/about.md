@@ -12,7 +12,7 @@ Hey there! You found my website! My name is *Christopher-Thomas Abaya Ick*, but 
 
 **I'm near the end of my PhD, and currently looking for full-time employment opportunities, feel free to reach out to me at chris(dot)ick(at)nyu(dot)edu. [Here's my CV!](../files/Ick_CV.pdf)**
 
-I'm always happy to chat over zoom, but if you want to meet me in person, I'm mostly at the Manhattan/Brooklyn campuses of NYU. You could also catch me at the upcoming conferences: [SANE 2024](https://www.saneworkshop.org/sane2024/), [NeurIPS 2024](https://neurips.cc/), [ICASSP 2025](https://2025.ieeeicassp.org/)
+I'm always happy to chat over zoom, but if you want to meet me in person, I'm mostly at the Manhattan/Brooklyn campuses of NYU. You could also catch me at the upcoming conferences: [SANE 2024](https://www.saneworkshop.org/sane2024/), [NeurIPS 2024](https://neurips.cc/).
 
 Currently, I'm doing research on spatial audio, acoustic simulation, and event localization. I'm pushing the limits of how well we can teach machines to learn space from sound, and broadly, how well we can develop applied deep neural networks in the face of limited data. I've got a few ongoing projects on continuous multichannl RIR learning, and disentangling factors of variability within RIRs; if you're interested or have your own ideas, feel free to reach out for collaboration opportunities!
 

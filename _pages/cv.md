@@ -21,10 +21,10 @@ Education
 * B.S. in Physics @ College of Arts and Science, New York University, 2017
   - Minors in CS/Math
   - Graduated with Honors
-  - [Athletic Honor Roll](https://gonyuathletics.com/sports/mens-fencing/roster/chris-ick/7426)
+  - Athletic Honor Roll ([fencing](https://gonyuathletics.com/sports/mens-fencing/roster/chris-ick/7426))
   - Dean's List
   - [Sigma Pi Sigma](https://www.sigmapisigma.org/) Member
-  - [Dean's Undergraduate Research Grant Recipient](https://cas.nyu.edu/undergraduate-research/deans-undergraduate-research-fund.html) (5x)
+  - [Dean's Undergraduate Research Grant](https://cas.nyu.edu/undergraduate-research/deans-undergraduate-research-fund.html) Recipient (5x)
 
 Work experience
 ======
@@ -36,12 +36,12 @@ Work experience
 * Summer 2022: Advanced Technology Intern
   * Sonos, Boston, MA (Remote)
   * Advisors: Wenyu Jin, Adib Mehrabi
-  * [Results published in ICASSP 2023](../publication/2023_blindparameterest)
+  * [Results](../publication/2023_blindparameterest) published in ICASSP 2023
 
 * Summer 2021: Audio AI Intern
   * Robert Bosch LLC, Pittsburgh, PA (Remote)
   * Advisors: Luca Bondi, Samarjit Das
-  * [Results published in ICASSP 2022](../publication/2022_acousticimaging)
+  * [Results](../publication/2022_acousticimaging) published in ICASSP 2022
 
 * Summer 2019: Applied Scientist Intern
   * Amazon Music, San Francisco, CA
@@ -50,12 +50,12 @@ Work experience
 * May 2017 - September 2018: Junior Research Associate
   * NYU Physics Dept, New York, NY
   * Advisors: David Hogg, Kyle Cranmer
-  * [Results published in Astrophysical Journal 2022](../publication/2022_qpo)
+  * [Results](../publication/2022_qpo) published in Astrophysical Journal 2022
 
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
+  <ul>{% for post in site.publications reversed%}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
