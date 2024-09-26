@@ -12,13 +12,13 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Data Science @ Music and Audio Research Lab, New York University, 2025 (expected)
+* Ph.D in Data Science @ Music and Audio Research Lab, New York University, 2019-2025 (expected)
   - Advised by [Prof. Brian McFee](https://brianmcfee.net/)
   - Urban Scholars Research Fellow
-* M.S. in Data Science @ Center for Data Science, New York University, 2018
+* M.S. in Data Science @ Center for Data Science, New York University, 2018-2019
   - DeepMind Fellowship
   - Transferred to Ph.D Program
-* B.S. in Physics @ College of Arts and Science, New York University, 2017
+* B.S. in Physics @ College of Arts and Science, New York University, 2013-2017
   - Minors in CS/Math
   - Graduated with Honors
   - Athletic Honor Roll ([fencing](https://gonyuathletics.com/sports/mens-fencing/roster/chris-ick/7426))
@@ -58,7 +58,8 @@ Publications
   <ul>{% for post in site.publications reversed%}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+<small><sup>*</sup> denotes equal contribution</small>
+
 Teaching
 ======
 * Fall 2023 - Spring 2024: Teaching Assistant
