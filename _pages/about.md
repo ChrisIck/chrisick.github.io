@@ -15,6 +15,12 @@ Hey there! You found my website! My name is *Christopher-Thomas Abaya Ick*, but 
 I'm always happy to chat over zoom, but if you want to meet me in person, I'm mostly at the Manhattan/Brooklyn campuses of NYU.
 I'm currently focusing on wrapping up my PhD and writing my dissertation, but I'm submitting some work to a few audio conferences late summer/early fall of 2025 and will hopefully get to see you in attendance. 
 
+## Recent News
+  - I presented [_Spatially-Aware Losses for Enhanced Neural Acoustic Fields_](https://openreview.net/forum?id=ZZGZDYfp1e) at the [Audio Imagination Workshop](https://www.audio-imagination.com/) at NeurIPS 2024 in Vancouver (and got some skiing in at Cypress Mountain!)
+  - Our work _Retrieval-Augmented Neural Field for HRTF Upsampling and Personalization_ won the LAP 2024 challenge and was accepted for publication in the proceedings of ICASSP 2025
+  - Our late-breaking demo [_Zero-Shot Structure Labeling with Audio And Language Model Embeddings_](https://hal.science/hal-04764247/document) was presented at ISMIR 2024 in San Francisco.
+  - Our work [_Vocal Call Locator Benchmark (VCL) for localizing rodent vocalization_](https://www.biorxiv.org/content/10.1101/2024.09.20.613758v1) was accepted for publication in the proceedings of NeurIPS 2024
+
 ## Ongoing Work
 Currently, I'm doing research on spatial audio, acoustic simulation, and event localization.
 I'm pushing the limits of how well we can teach machines to learn space from sound, and broadly, how well we can develop applied deep neural networks in the face of limited data.
