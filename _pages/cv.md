@@ -8,17 +8,20 @@ redirect_from:
 ---
 # [PDF Format](../files/Ick_CV.pdf)
 
+{% comment %} 
+<iframe src="https://docs.google.com/gview?url=https://chrisick.github.io/files/Ick_CV.pdf&embedded=true" style="width:718px; height:700px;" frameborder="0"></iframe>
+{% endcomment %} 
+
 {% include base_path %}
 
 Education
 ======
-* Ph.D in Data Science @ Music and Audio Research Lab, New York University, 2019-2025 (expected)
+* Ph.D in Data Science @ Music and Audio Research Lab, New York University, Graduating May 2025 (expected)
   - Advised by [Prof. Brian McFee](https://brianmcfee.net/)
   - Urban Scholars Research Fellow
-* M.S. in Data Science @ Center for Data Science, New York University, 2018-2019
   - DeepMind Fellowship
-  - Transferred to Ph.D Program
-* B.S. in Physics @ College of Arts and Science, New York University, 2013-2017
+  - Transfer from M.S. Program
+* B.S. in Physics @ College of Arts and Science, New York University, Graduated 2017
   - Minors in CS/Math
   - Graduated with Honors
   - Athletic Honor Roll ([fencing](https://gonyuathletics.com/sports/mens-fencing/roster/chris-ick/7426))
@@ -88,7 +91,7 @@ Teaching
 Service and leadership
 ======
 * Referee/Reviewer:
-  * ISMIR 2023
-  * ICASSP 2022, 2023, 2024
-* Volunteer/Events Committee: [Jane Bailey Memorial Garden](https://www.nyrp.org/en/gardens-and-parks/jane-bailey-memorial-garden/) (2022-2024)
+  * ISMIR 2023,2024
+  * ICASSP 2022, 2023, 2024, 2025
+* Volunteer/Events Committee: [Jane Bailey Memorial Garden](https://www.nyrp.org/en/gardens-and-parks/jane-bailey-memorial-garden/) (2022-2025)
 * Member-Owner: [Greene Hill Food Co-op](https://www.greenehillfood.coop/)
