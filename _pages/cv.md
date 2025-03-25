@@ -31,10 +31,10 @@ Education
 
 Work experience
 ======
-* Summer-Winter 2024: Research Intern (part-time)
+* Summer-Winter 2024/2025: Research Intern (part-time)
   * Mitsubishi Electric Research Laboratories, Cambridge, MA (Remote)
   * Advisors: Gordon Wichern, Yoshiki Masuyama, Jonathan Le Roux
-  * Ongoing
+  * Results pending publication, presented at [Audio Imagination Workshop @ NeurIPS 2024](https://audio-imagination.github.io/), [GenDA Workshop @ ICASSP 2025](https://sites.google.com/view/genda2025/)
 
 * Summer 2022: Advanced Technology Intern
   * Sonos, Boston, MA (Remote)
